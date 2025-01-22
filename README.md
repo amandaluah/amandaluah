@@ -33,12 +33,21 @@ Feel free to connect with me or collaborate on a project!
 
 ## 🌸 Capstone Project: Predicting Japan's Cherry Blossom Bloom Date
 ![Image](https://github.com/user-attachments/assets/8ff62946-7225-4dc9-8b47-be74525a2086)
-> Purpose: 
-> Built a prediction model using Time series approach for future cherry blossom dates in various regions of Japan in order to help local businesses maximize their success during Cherry Blossom period.
+> I attended a 3 month intensive data analytics course at General Assembly and this was my capstone project submitted near the end of the course.
+> 
+> I built a prediction model using the Time series approach to forecast future cherry blossom bloom dates in various regions of Japan in order to help local businesses maximize their success during Cherry Blossom period.
 > 
 > Refer to my [repository](https://github.com/amandaluah/cherry-blossoms) for the full details.
 
-
+## 🏠  AGILE Data Sprint: HDB Resale Prices
+![Image](https://github.com/user-attachments/assets/cbddcf6f-d728-4054-ab2d-2e46ef7b7d63)
+> This was my 1st group project at General Assembly, which is a data sprint project.
+> 
+> As a group, my teammates and I analysed the HDB resale market in Singapore, as a data analyst at a real estate agency in Singapore. The agency wants to empower their agents with a data-driven tool to offer competitive
+> pricing advice for clients looking to buy or sell HDB resale flats and accurately estimate HDB resale flat values for different flat types and locations. We built a predictive model using linear regression and created various visualizations
+> using Tableau and Python as part of data exploration.
+>
+> Refer to my [repository](https://github.com/amandaluah/HDB-resale-prices) for the full details.
 
 
 
