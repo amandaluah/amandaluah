@@ -13,6 +13,9 @@ Feel free to connect with me or collaborate on a project!
 
 🌐 LinkedIn: www.linkedin.com/in/amandaluah
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amandaluah&show_icons=true&theme=radical)
+
+
 <!---
 amandaluah/amandaluah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
