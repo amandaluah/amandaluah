@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Amanda!
+# 🙋‍♀ Hi, I’m Amanda!
 I'm an aspiring data analyst, with a background in accounting, having spent 5 years as an auditor. My experience has sharpened my analytical skills, attention to detail, and ability to draw meaningful insights from complex data. Over time, I developed a keen interest in the way data analytic tools can be used to handle complex data much easily and is so much more than just data extraction and data cleaning.
 
 As I transition into data analytics, I have developed expertise in:
@@ -27,8 +27,24 @@ Feel free to connect with me or collaborate on a project!
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amandaluah&show_icons=true&theme=radical)
+
+# 💡 My Projects
+
+## 🌸 Capstone Project: Predicting Japan's Cherry Blossom Bloom Date
+![Image](https://github.com/user-attachments/assets/8ff62946-7225-4dc9-8b47-be74525a2086)
+> Purpose: 
+> Built a prediction model using Time series approach for future cherry blossom dates in various regions of Japan in order to help local businesses maximize their success during Cherry Blossom period.
+> 
+> Tools used: Python, Tableau
+>
+> Resources: Historical weather data was obtained from both Kaggle and Japan Meteorological Agency.
+>
+> Result: Mean Absolute Error (MAE) =  16.019 days. This discrepancy may stem from the fact that cherry blossoms bloomed 15 days later in 2024 compared to 2023, highlighting the variability of weather patterns.
+
+
+
+
 
 
 <!---
