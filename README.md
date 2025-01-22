@@ -7,6 +7,8 @@ As I transition into data analytics, I have developed expertise in:
 
 📊 Skills: Data visualization, statistical analysis, and business intelligence reporting
 
+💭 Currently learning about: Streamlit
+
 I'm passionate about transforming raw data into actionable insights that drive better decision-making. Check out my repositories for projects that showcase my journey in data analytics, including case studies and hands-on analyses.
 
 Feel free to connect with me or collaborate on a project!
