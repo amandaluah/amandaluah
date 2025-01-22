@@ -10,8 +10,6 @@ I'm passionate about transforming raw data into actionable insights that drive b
 
 Feel free to connect with me or collaborate on a project!
 
-📧 Email: amanda.luah12@gmail.com
-
 🌐 LinkedIn: www.linkedin.com/in/amandaluah
 
 <!---
