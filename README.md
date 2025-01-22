@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Amanda
-I'm an aspiring data analyst, with a background in accounting, having spent 5 years as an auditor. Over time, I developed a keen interest in the way data analytic tools can be used to handle complex data much easily and is so much more than just data extraction and data cleaning. My experience has sharpened my analytical skills, attention to detail, and ability to draw meaningful insights from complex data.
+I'm an aspiring data analyst, with a background in accounting, having spent 5 years as an auditor. My experience has sharpened my analytical skills, attention to detail, and ability to draw meaningful insights from complex data. Over time, I developed a keen interest in the way data analytic tools can be used to handle complex data much easily and is so much more than just data extraction and data cleaning.
 
 As I transition into data analytics, I have developed expertise in:
 
