@@ -4,6 +4,7 @@ I'm an aspiring data analyst, with a background in accounting, having spent 5 ye
 As I transition into data analytics, I am developing expertise in:
 
 🛠️ Tools & Technologies: SQL, Python, Power BI, Excel, and Tableau
+
 📊 Skills: Data visualization, statistical analysis, and business intelligence reporting
 
 I'm passionate about transforming raw data into actionable insights that drive better decision-making. Check out my repositories for projects that showcase my journey in data analytics, including case studies and hands-on analyses.
