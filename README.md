@@ -24,7 +24,7 @@ Feel free to connect with me or collaborate on a project!
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
 # 💭 Currently learning
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amandaluah&show_icons=true&theme=radical)
 
